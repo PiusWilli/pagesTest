@@ -4,4 +4,5 @@ test/integration/screenshots-current/
 _site/
 .DS_Store
 
-!docs/ .gitkeep
+# exception to the rule
+!docs/.gitkeep
