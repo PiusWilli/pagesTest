@@ -5,4 +5,5 @@ _site/
 .DS_Store
 
 # exception to the rule
-!docs
+!/docs/
+!/docs/**
