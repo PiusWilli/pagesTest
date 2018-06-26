@@ -4,4 +4,4 @@ test/integration/screenshots-current/
 _site/
 .DS_Store
 
-docs/ .gitkeep
+!docs/ .gitkeep
